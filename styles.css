@@ -1,0 +1,63 @@
+.global {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.title h1{
+    justify-items: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    color: aliceblue;
+}
+h1 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: aliceblue;
+    text-align: center;
+}
+
+
+.hyperlink1 {
+    text-decoration: none;
+    color: aqua;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+
+
+}
+
+.video {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+
+
+}
+
+.img{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+
+}
+
+.footer {
+    margin-right: 10%;
+    color: grey;
+    height: 100px;
+    width: auto;
+    font-size: 15px;
+    text-align: end;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    
+
+}
+
+
+
+
+
